@@ -1,0 +1,9 @@
+This is PyRADMC, a Python interface to read'n'plot Kees Dullemond's RADMC-3D outputs (http://www.ita.uni-heidelberg.de/~dullemond/software/radmc-3d/).
+
+INSTALL
+-------
+Add the path of PyRADMC directory in your $PYTHONPATH. That's all.
+
+LICENSE
+-------
+This software is under the GNU/GPL license; see http://www.gnu.org/licenses/gpl.html for more informations.
